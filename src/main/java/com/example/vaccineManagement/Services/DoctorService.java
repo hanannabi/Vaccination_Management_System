@@ -61,7 +61,6 @@ public class DoctorService {
         VaccinationCenter vaccinationCenter = optionalCenter.get();
 
 
-
         doctor.setVaccinationCenter(vaccinationCenter); //Setting the foreign
 
 
